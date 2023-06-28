@@ -1,4 +1,4 @@
-### Hello there 
+## Hello there 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solosx&theme=dark)
 
@@ -10,4 +10,60 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Solosx&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-### Daily 
+* * *
+
+## Daily Memo
+### 2023
+
+<details>
+<summary>6月</summary>
+<br>
+ここに月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>7月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>8月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>9月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>10月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>11月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+<details>
+<summary>12月</summary>
+<br>
+ここに2月の詳細を追加します。
+<br>
+</details>
+
+</details>
+
+
