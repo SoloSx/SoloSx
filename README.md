@@ -12,4 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Solosx&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solosx&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solosx&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
