@@ -36,7 +36,7 @@
   - [07-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-0707.md)
   - [08-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-0807.md)
   - [09-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-0907.md)
-  - [10-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-2806.md)
+  - [10-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-1007.md)
   - [11-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-2806.md)
   - [12-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-2806.md)
   - [13-07](https://github.com/SoloSx/Solosx/blob/main/Dairy/202306/2023-2806.md)
