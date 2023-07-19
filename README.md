@@ -1,6 +1,6 @@
 ## Hello there 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Solosx&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SoloSx&theme=dark)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoloSx&layout=compact&count_private=true&show_icons=true&theme=dark" />
