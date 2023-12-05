@@ -8,6 +8,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SoloSx&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+)](https://github.com/ryo-ma/github-profile-trophy) 
 
 * * *
